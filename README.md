@@ -1,8 +1,5 @@
 This script utilizes hostapd to continuously clone a WPA3 Access Point's (AP) BSSID, SSID, and channel, aiming to disrupt its service by creating an "evil twin" AP. By mimicking the legitimate AP's identifiers, clients may inadvertently connect to the malicious AP, leading to service disruption or potential data interception.​
 bcs.org
-+1
-Βικιπαίδεια
-+1
 
 Effectiveness Factors:
 
